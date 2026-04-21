@@ -53,7 +53,6 @@ Amazon S3 (Static Website Hosting)
 - Enable it
 - Set:
   - Index document: `index.html`
-  - Error document: `error.html` (optional)
 
 ### **3. Upload Your Website Files**
 ## 🧪 Sample Website Included
@@ -63,7 +62,7 @@ This project includes a ready-to-deploy sample website inside the `src/` folder:
 - `index.html`
 - `styles.css`
 - `script.js`
-- `sample-image.png`
+- `image.png`
 
 You can upload these files directly to your S3 bucket to instantly deploy your first cloud-hosted website.
 
